@@ -2,21 +2,21 @@ Nota: Esta herramienta sigue en desarollo y por el momento solo puede interactua
 
 # Nueva funcionalidad en Moodle: CONCEPTOS
 
-    Bajo la idea de que algunas tareas podrían beneficiarse de utilizar un método mejor acoplado a la plataforma Moodle, he desarrollado la definición de tareas "CONCEPTOS".
+Bajo la idea de que algunas tareas podrían beneficiarse de utilizar un método mejor acoplado a la plataforma Moodle, he desarrollado la definición de tareas "CONCEPTOS".
 
-    CONCEPTOS busca resolver la situación en la que un profesor le gustaría asignar una tarea cuyo objetivo es el de verificar que entendieron los estudiantes de los conceptos explicados en un módulo y por falta de un sistema acoplado a Moodle que no se asocie a un examen de tiempo limitado. Los profesores obtan por solicitar dicha tarea en formatos de procesadores de texto como .doc, .docx, .txt, entre otros. Lo cual puede generar deficiencias de entrega por el tiempo adicional de configuración inicial para redactarse.
+CONCEPTOS busca resolver la situación en la que un profesor le gustaría asignar una tarea cuyo objetivo es el de verificar que entendieron los estudiantes de los conceptos explicados en un módulo y por falta de un sistema acoplado a Moodle que no se asocie a un examen de tiempo limitado. Los profesores obtan por solicitar dicha tarea en formatos de procesadores de texto como .doc, .docx, .txt, entre otros. Lo cual puede generar deficiencias de entrega por el tiempo adicional de configuración inicial para redactarse.
 
 ## CONCEPTOS Busca que el estudiante pueda dar sus propias palabras de manera más calmada.
 
-    La diferencia principal entre CONCEPTOS y el sistema de examen en linea puesto actualmente en Moodle es su estadía por sesión.
+La diferencia principal entre CONCEPTOS y el sistema de examen en linea puesto actualmente en Moodle es su estadía por sesión.
 
 ### Metodología
 
-    La metodología del profesor debería ser de colocar todos los conceptos a la espera del análisis de cada estudiante, generando cada uno su caja de texto individual en el proceso, y mencionarle a sus alumnos una fecha límite. Los estudiantes pueden entrar en sus propios módulos y contestar cada concepto en las cajas de texto para luego guardarlos en la base de datos personal con el botón de "Guardar".
+La metodología del profesor debería ser de colocar todos los conceptos a la espera del análisis de cada estudiante, generando cada uno su caja de texto individual en el proceso, y mencionarle a sus alumnos una fecha límite. Los estudiantes pueden entrar en sus propios módulos y contestar cada concepto en las cajas de texto para luego guardarlos en la base de datos personal con el botón de "Guardar".
 
-    El boton de guardar se programará para llevar cuenta de su concepto adjunto individual de tal manera que si el estudiante decide salir de la plataforma por restricciones de algún tipo, los resultados escritos por el o ella aparecerán en su pantalla nuevamente cuando ingrese en otra ocasión.
+El boton de guardar se programará para llevar cuenta de su concepto adjunto individual de tal manera que si el estudiante decide salir de la plataforma por restricciones de algún tipo, los resultados escritos por el o ella aparecerán en su pantalla nuevamente cuando ingrese en otra ocasión.
 
-    Una vez el tiempo límite ha pasado, el profesor podrá cerrar la asignación de nuevas ediciones de conceptos con un botón (no implementado todavía) y evaluar los conceptos de cada estudiante según su identificación en Moodle.
+Una vez el tiempo límite ha pasado, el profesor podrá cerrar la asignación de nuevas ediciones de conceptos con un botón (no implementado todavía) y evaluar los conceptos de cada estudiante según su identificación en Moodle.
 
 ### Beneficios contra el sistema viejo.
 
@@ -33,7 +33,7 @@ Nota: Esta herramienta sigue en desarollo y por el momento solo puede interactua
 
 ### Desventajas
 
-    El proyecto sigue en un estado muy prematuro sin pruebas en la vida real por lo que es ideal hacer mini tests, se de su aprobación, para detectar inconvenientes y resolverlos con rapidez 
+El proyecto sigue en un estado muy prematuro sin pruebas en la vida real por lo que es ideal hacer mini tests, se de su aprobación, para detectar inconvenientes y resolverlos con rapidez 
 
 -   Implementación nueva. Por ser un sistema nuevo, requerirá que a cada profesor se le enseñe a utilizarlo. Asunto que no debería provocar tantas complicaciones ya que CONCEPTO está ideado para la facilidad de uso.
 
