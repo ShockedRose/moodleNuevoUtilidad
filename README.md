@@ -1,4 +1,4 @@
-Nota: Esta herramienta sigue en desarollo y por el momento solo puede interactuar con un ambiente de demostración volatil.
+Nota: Esta herramienta sigue en desarrollo y por el momento solo puede interactuar con un ambiente de demostración volatil.
 
 # Nueva funcionalidad en Moodle: CONCEPTOS
 
